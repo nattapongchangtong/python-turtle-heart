@@ -22,7 +22,7 @@ t.penup()
 t.goto(-150,130)
 t.pendown()
 t.color('white')
-
+t.write("มหาลัยเชียงใหม่",font=("Verdana",20,"bold"))
 
 t.penup()
 t.goto(-240,-100)
